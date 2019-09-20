@@ -16,4 +16,4 @@ yarn install
 npm run dev
 // npm run build（打包）
 ```
-#### 4、打开浏览器浏览 http:/localhost:9000
+#### 4、打开浏览器浏览 http://localhost:9000
